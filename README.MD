@@ -34,4 +34,4 @@ This application supports the following sorting algorithms:
 4. **Merge Sort**.
 5. **Quick Sort**.
 
-**Live Varsion :-** https://Priyasha2909.github.io/sorting_visualizer/)
+**Live Version :-** https://Priyasha2909.github.io/sorting_visualizer/)
